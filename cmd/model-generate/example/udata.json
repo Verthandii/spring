@@ -1,0 +1,10 @@
+{
+  "host": "rm-uf6kf5r2g781f0fg0mo.mysql.rds.aliyuncs.com",
+  "port": 3306,
+  "username": "platdev_udata_dev_user",
+  "password": "rTiT4pQ7SyVOdxqqw!e",
+  "dbname": "platdev_udata_dev",
+  "tables": [],
+  "terminal": false,
+  "bigCamelCaseWords": []
+}

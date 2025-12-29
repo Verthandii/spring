@@ -1,0 +1,10 @@
+{
+  "host": "rm-uf6kf5r2g781f0fg0mo.mysql.rds.aliyuncs.com",
+  "port": 3306,
+  "username": "pubplat_customer_test",
+  "password": "7YFgpReB56ZVPXLu",
+  "dbname": "pubplat_customer_dev",
+  "tables": [],
+  "terminal": false,
+  "bigCamelCaseWords": []
+}

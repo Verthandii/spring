@@ -1,0 +1,10 @@
+{
+  "host": "rm-uf6kf5r2g781f0fg0mo.mysql.rds.aliyuncs.com",
+  "port": 3306,
+  "username": "platdev_esms_dev",
+  "password": "lD1ogjqTeMIQcuQf",
+  "dbname": "platdev_esms_dev",
+  "tables": [],
+  "terminal": false,
+  "bigCamelCaseWords": []
+}

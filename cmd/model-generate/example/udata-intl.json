@@ -1,0 +1,10 @@
+{
+  "host": "rm-j6cq68b0ytekkac0kio.mysql.rds.aliyuncs.com",
+  "port": 3306,
+  "username": "udata_dev_user",
+  "password": "ryFQ5jZBjku",
+  "dbname": "udata-hk-dev",
+  "tables": [],
+  "terminal": false,
+  "bigCamelCaseWords": []
+}

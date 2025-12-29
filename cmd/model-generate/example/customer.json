@@ -1,0 +1,10 @@
+{
+  "host": "rm-uf6kf5r2g781f0fg0mo.mysql.rds.aliyuncs.com",
+  "port": 3306,
+  "username": "customer_v2",
+  "password": "waLrc&MB*z38L",
+  "dbname": "customer_v2_dev",
+  "tables": [],
+  "terminal": false,
+  "bigCamelCaseWords": []
+}
